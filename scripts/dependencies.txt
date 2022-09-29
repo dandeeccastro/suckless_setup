@@ -1,0 +1,4 @@
+rofi
+dunst
+systembus-notify
+feh
