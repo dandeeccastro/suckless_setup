@@ -6,3 +6,6 @@ I like fast stuff
 
 ## How
 dwm + st + dwmblocks
+
+## Patches
+I like having the patches I used close for reference
