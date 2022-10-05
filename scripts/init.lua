@@ -403,6 +403,7 @@ cmp.setup {
 
 -- Minhas configurações e comandos estranhos
 vim.cmd [[set relativenumber]]
+vim.cmd [[set scrolloff=3]]
 
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
