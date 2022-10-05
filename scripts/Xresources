@@ -1,0 +1,39 @@
+! DWM Specific 
+dwm.font: 		Iosevka:size=10
+dwm.dmenufont: 		Iosevka:size=10
+
+dwm.selbordercolor: 	#7e705a
+dwm.selbgcolor: 	#3b3228
+
+! ST Specific
+st.font: 		agave Nerd Font Mono:size=12
+
+! Mocha Theme (terminal.sexy)
+*.foreground:   #d0c8c6
+*.background:   #3b3228
+*.cursorColor:  #d0c8c6
+
+*.color0:       #3b3228
+*.color8:       #7e705a
+
+*.color1:       #cb6077
+*.color9:       #cb6077
+
+*.color2:       #beb55b
+*.color10:      #beb55b
+
+*.color3:       #f4bc87
+*.color11:      #f4bc87
+
+*.color4:       #8ab3b5
+*.color12:      #8ab3b5
+
+*.color5:       #a89bb9
+*.color13:      #a89bb9
+
+*.color6:       #7bbda4
+*.color14:      #7bbda4
+
+*.color7:       #d0c8c6
+*.color15:      #f5eeeb
+
