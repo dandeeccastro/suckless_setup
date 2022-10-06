@@ -1,3 +1,7 @@
 #!?/bin/bash
 
-find /usr/share/applications ~/.local/share/applications -name '*.desktop' -print0 | xargs -0 grep -i -l "Terminal=False"
+# FILE_LISTS=$(find /usr/share/applications ~/.local/share/applications -name '*.desktop' -exec printf "%q\n" {} \;)
+#
+# for FILE in $FILE_LISTS; do
+# 	echo $FILE
+# done
