@@ -25,7 +25,6 @@ static const char *const autostart[] = {
 	"systembus-notify", NULL,
 	"dwmblocks", NULL,
 	"dunst", NULL,
-	"st", NULL,
 	NULL /* terminate */
 };
 
