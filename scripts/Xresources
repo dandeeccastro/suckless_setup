@@ -1,12 +1,12 @@
 ! DWM Specific 
-dwm.font: 		Iosevka:size=10
-dwm.dmenufont: 		Iosevka:size=10
+dwm.font: 		Iosevka:size=9
+dwm.dmenufont: 		Iosevka:size=9
 
 dwm.selbordercolor: 	#7e705a
 dwm.selbgcolor: 	#3b3228
 
 ! ST Specific
-st.font: 		agave Nerd Font Mono:size=12
+st.font: 		Iosevka,Iosevka Nerd Font Mono:size=11
 
 ! Mocha Theme (terminal.sexy)
 *.foreground:   #d0c8c6
